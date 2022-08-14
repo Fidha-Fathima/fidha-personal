@@ -508,9 +508,9 @@
   box-shadow: 0 0 0 2px #fff, 0 0 0 4px #EF3724;
 }
 
-.theme-red .page-about .img-place::before {
+/* .theme-red .page-about .img-place::before {
   border-color: #EF3724;
-}
+} */
 
 .theme-red .timeline li:first-child .title {
   background-color: #EF3724;
